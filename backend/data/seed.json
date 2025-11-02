@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "species": "Arctic Tern",
+    "lat": 64.9631,
+    "lng": -19.0208,
+    "date": "2024-05-12",
+    "count": 20,
+    "notes": "spring stopover"
+  },
+  {
+    "id": 2,
+    "species": "Arctic Tern",
+    "lat": 55.3781,
+    "lng": -3.436,
+    "date": "2024-06-01",
+    "count": 35,
+    "notes": "feeding"
+  },
+  {
+    "id": 3,
+    "species": "Barn Swallow",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "date": "2024-04-20",
+    "count": 12,
+    "notes": "urban roost"
+  },
+  {
+    "id": 4,
+    "species": "Barn Swallow",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "date": "2024-09-05",
+    "count": 18,
+    "notes": "autumn migration"
+  },
+  {
+    "id": 5,
+    "species": "Sandhill Crane",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "date": "2024-03-22",
+    "count": 50,
+    "notes": "stopover"
+  }
+]
